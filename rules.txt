@@ -1,0 +1,6 @@
+This is currently Unstaged File.
+
+after adding command
+git add .
+
+this file will be staged
