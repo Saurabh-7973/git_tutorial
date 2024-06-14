@@ -1,0 +1,3 @@
+git stash commit
+
+assuming this is half build modules
